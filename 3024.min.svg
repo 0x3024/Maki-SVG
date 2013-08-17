@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 3024: a color scheme | http://github.com/idleberg/3024 -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" baseProfile="basic" id="3024-svg" x="0px" y="0px" width="240px" height="240px" viewBox="0 0 240 240" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+<path id="Maki_00" fill="#090300" d="M0,0v240h240V0H0z M210,210H30V30h180V210z"/>
+<path id="Maki_07" fill="#f7f7f7" d="M30,30v180h180V30H30z M180,180H60V60h120V180z"/>
+<rect id="Maki_08" x="60" y="60" fill="#db2d20" width="30" height="60"/>
+<rect id="Maki_09" x="90" y="60" fill="#e8bbd0" width="30" height="60"/>
+<rect id="Maki_0A" x="120" y="60" fill="#fded02" width="30" height="60"/>
+<rect id="Maki_0B" x="150" y="60" fill="#01a252" width="30" height="60"/>
+<rect id="Maki_0C" x="60" y="120" fill="#b5e4f4" width="30" height="60"/>
+<rect id="Maki_0D" x="90" y="120" fill="#01a0e4" width="30" height="60"/>
+<rect id="Maki_0E" x="120" y="120" fill="#a16a94" width="30" height="60"/>
+<rect id="Maki_0F" x="150" y="120" fill="#cdab53" width="30" height="60"/>
+</svg>
